@@ -1,0 +1,28 @@
+{
+	"MP3.playType.Play|block": "播放",
+	"MP3.playType.Pause|block": "暂停",
+	"MP3.playType.Last|block": "上一曲",
+	"MP3.playType.Next|block": "下一曲",
+	"MP3.playType.Stop|block": "停止",
+
+	"MP3.cycleType.SingleCycle|block": "单曲循环",
+	"MP3.cycleType.SingleStop|block": "单曲停止",
+	"MP3.cycleType.ListCycle|block": "列表循环",
+	"MP3.cycleType.Shuffle|block": "随机播放",
+	"MP3.cycleType.Order|block": "顺序播放",
+
+	"MP3.equalizer.Normal|block": "正常",
+	"MP3.equalizer.Pop|block": "流行",
+	"MP3.equalizer.Rock|block": "摇滚",
+	"MP3.equalizer.Jazz|block": "爵士",
+	"MP3.equalizer.Classic|block": "经典",
+
+	"MP3.MP3_pin_set|block": "MP3 引脚设置 | 接收数据(rx): %rx | 发送数据(tx): %tx",
+	"MP3.MP3_play_control|block": "MP3 播放控制 %type",
+	"MP3.MP3_assign_song|block": "MP3 播放曲目 %num",
+	"MP3.MP3_play_type|block": "MP3 播放模式 %type",
+	"MP3.MP3_volume_set|block": "MP3 设置音量 %vol",
+	"MP3.MP3_volume_up|block": "MP3 音量+",
+	"MP3.MP3_volume_down|block": "MP3 音量-",
+	"MP3.MP3_eq_set|block": "MP3 设置均衡器 %eq"
+}
